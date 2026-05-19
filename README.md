@@ -12,6 +12,13 @@ Vim Shortcut Trainer is a beginner-friendly learning website for practicing Vim 
 - Node.js
 - Express
 
+## License
+
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 Nye Kyaw
+
+
 # Credits
 
 This project uses Vim shortcut content adapted from the vim-cheat-sheet project by Richard Torruellas.
